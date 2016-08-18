@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consumo Da Motoka</string>
+    <string name="litros_de_combustivel">Escreve aí quanto você colocou no tanque!</string>
+    <string name="preco_do_litro_de_combustivel">Escreve aí quanto custo o litro!</string>
+    <string name="quilometros_rodados">Escreve aí quantos KMs foram rodados!</string>
+    <string name="botao_enviar">Clica aqui pra calcular!</string>
+</resources>
